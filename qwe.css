@@ -250,7 +250,7 @@ section {
 
 .projects {
     background-color: #ffffff;
-     justify-content: center; /* لتوسيط <div> أفقيًا */
+    
 }
 
 .projects .content{
@@ -266,6 +266,7 @@ section {
     border-radius: 10px;
     margin: 20px;
     transition: 0.7s ease;
+     justify-content: center; /* لتوسيط <div> أفقيًا */
 }
 
 .project-card:hover {
