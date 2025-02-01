@@ -65,6 +65,8 @@ header .asd {
     height: 80px;
     border-radius: 50%; /* شكل دائري */
     margin-bottom: 10px;
+      justify-content: center; /* لتوسيط الصورة أفقيًا */
+            align-items: center; /*
 }
 
 .menu-header h3 {
