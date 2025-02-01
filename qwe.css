@@ -250,6 +250,7 @@ section {
 
 .projects {
     background-color: #ffffff;
+     justify-content: center; /* لتوسيط <div> أفقيًا */
 }
 
 .projects .content{
